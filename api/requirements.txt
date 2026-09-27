@@ -1,6 +1,5 @@
 streamlit
-tensorflow==2.15.1
-protobuf==4.25.3
+tensorflow>=2.16.1
 pillow
-numpy
+numpy<2.0
 matplotlib
